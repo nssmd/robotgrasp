@@ -19,13 +19,4 @@ Dexterous grasp detection is crucial for stable robotic manipulation, yet most m
 
 ---
 
-## 📸 Model Architecture
-
-Our framework consists of:
-1. **Force-Closure Analysis**: Computes stability scores based on contact points and friction forces.
-2. **Geometric Feature Extraction**: Uses PointNet++ to extract features from 3D point clouds.
-3. **Multimodal Attention Fusion**: Dynamically balances **point cloud, pose, and joint data** for accurate grasp predictions.
-
----
-
 
